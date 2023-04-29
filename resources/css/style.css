@@ -9,6 +9,15 @@
    font-size:50px;
    color : white;
 }
+.header--secondary{
+    color: white;
+    font-size:42 px;
+    font-weight: 300 px ;
+}
+.header--sub-header{
+    font-size: 21px;
+    color: gray;
+}
 .link--cta{
     font-size: 16px;
     color:aquamarine;
